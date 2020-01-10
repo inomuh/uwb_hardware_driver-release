@@ -1,0 +1,35 @@
+ros-kinetic-uwb-hardware-driver (0.1.2-1xenial) xenial; urgency=high
+
+  * update
+  * 0.1.1
+  * update
+  * Contributors: elcinerdogan
+
+ -- Elcin Erdogan <elcin.erdogan@inovasyonmuhendislik.com>  Tue, 07 Jan 2020 21:00:00 -0000
+
+ros-kinetic-uwb-hardware-driver (0.1.1-1xenial) xenial; urgency=high
+
+  * new dependency jsoncpp added
+  * update
+  * update
+  * update
+  * update
+  * added
+  * re-initialize
+  * Contributors: elcinerdogan
+  * license added
+  * readme added
+  * update
+  * tempalte of driver.
+  * first commit
+  * Contributors: elcinerdogan
+
+ -- Elcin Erdogan <elcin.erdogan@inovasyonmuhendislik.com>  Mon, 06 Jan 2020 21:00:00 -0000
+
+ros-kinetic-uwb-hardware-driver (0.1.0-1xenial) xenial; urgency=high
+
+  * first public release
+
+ -- Elcin Erdogan <elcin.erdogan@inovasyonmuhendislik.com>  Thu, 12 Dec 2019 21:00:00 -0000
+
+
