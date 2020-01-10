@@ -25,8 +25,8 @@ pkg_check_modules(JSONCPP jsoncpp)
  )
 
 catkin_package(
-  INCLUDE_DIRS include
-  LIBRARIES uwb_hardware_driver
+#  INCLUDE_DIRS include
+#  LIBRARIES uwb_hardware_driver
   CATKIN_DEPENDS roscpp rospy message_runtime std_msgs
 #  DEPENDS system_lib
 )
